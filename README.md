@@ -11,11 +11,11 @@ Traditional methods of malaria diagnosis involve manual inspection of blood smea
 
 Our dataset comprises 27,558 cell images, evenly split between parasitized and uninfected cells. These images have been meticulously collected and annotated by medical experts, making them a reliable source for training and testing our deep neural network.
 ## Dataset
-![output](https://github.com/RuchithaReddy28/malaria-cell-recognition/blob/main/4.1.png?raw=true)
+![output](https://github.com/21003698/malaria-cell-recognition/blob/main/4.1.png?raw=true)
 
 ## Neural Network Model
 
-![output](https://github.com/RuchithaReddy28/malaria-cell-recognition/blob/main/4.2.png?raw=true)
+![output](https://github.com/21003698/malaria-cell-recognition/blob/main/4.2.png?raw=true)
 
 ## DESIGN STEPS
 1.We begin by importing the necessary Python libraries, including TensorFlow for deep learning, data preprocessing tools, and visualization libraries.
@@ -183,19 +183,19 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![output](https://github.com/RuchithaReddy28/malaria-cell-recognition/blob/main/4.3.png?raw=true)
+![output](https://github.com/21003698/malaria-cell-recognition/blob/main/4.3.png?raw=true)
 
 ### Classification Report
 
-![output](https://github.com/RuchithaReddy28/malaria-cell-recognition/blob/main/4.4.png?raw=true)
+![output](https://github.com/21003698/malaria-cell-recognition/blob/main/4.4.png?raw=true)
 
 ### Confusion Matrix
 
-![output](https://github.com/RuchithaReddy28/malaria-cell-recognition/blob/main/4.5.png?raw=true)
+![output](https://github.com/21003698/malaria-cell-recognition/blob/main/4.5.png?raw=true)
 
 ### New Sample Data Prediction
 
-![output](https://github.com/RuchithaReddy28/malaria-cell-recognition/blob/main/4.5.png?raw=true)
+![output](https://github.com/21003698/malaria-cell-recognition/blob/main/4.6s.png?raw=true)
 
 ## RESULT
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
